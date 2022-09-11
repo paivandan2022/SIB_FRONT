@@ -1,0 +1,199 @@
+/* 05-07-2565 earn */
+.dataBlood .ant-table-tbody > tr:hover > td {
+  background: #fdebc7 !important;
+  cursor: pointer;
+}
+/* .dataBlood .ant-table-thead > tr > th {
+  background: #dfbb9d !important;
+} */
+
+.clickRow {
+  background: #ffc54d;
+}
+
+.clickRowHis {
+  background: rgba(75, 211, 208, 0.702);
+}
+
+.dataHis .ant-table-tbody > tr:hover > td {
+  background: rgb(213, 255, 254) !important;
+  cursor: pointer;
+}
+
+.dataHis .ant-table-thead > tr > th {
+  padding: 4px !important;
+  font-size: 12px;
+}
+
+.dataHis .ant-table-tbody > tr > td {
+  font-size: 12px;
+  padding: 4px !important;
+}
+
+
+.dataBlood .ant-table-thead > tr > th {
+  padding: 4px !important;
+  font-size: 12px;
+}
+
+.dataBlood .ant-table-tbody > tr > td {
+  font-size: 12px;
+  padding: 4px !important;
+}
+
+
+.HisReact .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+
+.HisReact .ant-table-thead > tr > th {
+  padding: 4px !important;
+  font-size: 12px;
+}
+
+.HisReact .ant-table-tbody > tr > td {
+  font-size: 12px;
+  padding:3px !important;
+}
+
+/* .HisReact .ant-table-thead > tr > th {
+  background: #abc9ff !important;
+} */
+
+.xm .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+.xm .ant-table-thead > tr > th {
+  font-size: 12px !important;
+  padding: 2px !important;
+}
+
+.xm .ant-table-tbody > tr > td {
+  font-size: 12px;
+  padding: 4px !important;
+}
+ 
+/* .xm .ant-table-thead > tr > th {
+  background: #dfbb9d;
+}
+.xm tr:nth-child(1) th:nth-child(1) {
+  background-color: #fafafa;
+} */
+
+.SGr .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+
+.SGr .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+.SGr tr th{
+  background-color: #fafafa !important;
+} 
+
+.SGr .ant-table-thead > tr > th {
+  padding: 2px !important;
+  font-size: 12px;
+}
+
+.SGr .ant-table-tbody > tr > td {
+  padding: 4px !important;
+  font-size: 12px;
+}
+
+.Addreact .ant-card-head {
+  min-height: 2px  !important;
+  font-size:14px;
+  font-weight:300;
+
+}
+
+.Addreact .ant-card-head-title {
+  display: inline-block;
+  flex: 1 1;
+  padding: 5px 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* .SGr tr th[rowspan="2"] {
+  background-color: #fafafa;
+}
+
+.SGr tr th[colspan="5"] {
+  background-color: #ffccd2;
+}
+
+.SGr tr:nth-child(2) th:nth-child(1) {
+  background-color: #c4ddff;
+}
+.SGr tr:nth-child(2) th:nth-child(2) {
+  background-color: #9fc088;
+}
+.SGr tr:nth-child(2) th:nth-child(3) {
+  background-color: #e8c07d;
+}
+.SGr tr:nth-child(2) th:nth-child(4) {
+  background-color: #bfb1a8;
+}
+.SGr tr:nth-child(2) th:nth-child(5) {
+  background-color: #e6d5b8;
+} */
+
+ 
+.PGr .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+
+.PGr tr th{
+  background-color: #fafafa !important;
+} 
+
+.PGr .ant-table-thead > tr > th {
+  padding: 4px !important;
+  padding: -17px;
+  font-size: 12px;
+}
+
+.PGr .ant-table-tbody > tr > td {
+  padding: 6px !important;
+  font-size: 12px;
+}
+
+/* .PGr tr th[rowspan="2"] {
+  background-color: #fafafa;
+}
+
+.PGr tr:nth-child(1) th:nth-child(2) {
+  background-color: #e8c07d;
+}
+.PGr tr:nth-child(1) th:nth-child(3) {
+  background-color: #9fc088;
+}
+.PGr tr:nth-child(1) th:nth-child(4) {
+  background-color: #edcdbb;
+}
+.PGr tr:nth-child(1) th:nth-child(5) {
+  background-color: #ca965c;
+}
+.PGr tr:nth-child(2) th:nth-child(1) {
+  background-color: #c4ddff;
+}
+.PGr tr:nth-child(2) th:nth-child(2) {
+  background-color: #ffdede;
+}
+.PGr tr:nth-child(2) th:nth-child(3) {
+  background-color: #d6efed;
+}
+.PGr tr:nth-child(2) th:nth-child(4) {
+  background-color: #bfb1a8;
+}
+.PGr tr:nth-child(2) th:nth-child(5) {
+  background-color: #e6d5b8;
+}
+.PGr tr:nth-child(2) th:nth-child(6) {
+  background-color: #f7e2d6;
+} */
+
+
