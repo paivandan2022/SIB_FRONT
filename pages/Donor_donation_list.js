@@ -117,7 +117,6 @@ const Confirmpopup = (value) => {
 const Donor_donation_list = () => {
   const [newDonorlist, setnewDonorlist] = useState([]);
   const [isModalVisibleEject, setIsModalVisibleEject] = useState(false);
-
   const [password, setPassword] = useState();
   const [datadonor, setDatadonor] = useState();
   const [donor_status, setDonor_status] = useState();
@@ -127,7 +126,6 @@ const Donor_donation_list = () => {
 
   //-----------------------------------//
   const onFinishSearch = async (value) => {
-    // console.log("value------>", value);
     try {
       setLoanding_table(true);
       const params = {
@@ -202,7 +200,7 @@ const Donor_donation_list = () => {
       }
       setIsModalVisibleEject(false);
     } catch (error) {
-      Modal.error({ title: "Error", content: "!!!!!!!!!!!!!!!!!!!" });
+      Modal.error({ title: "Error", content: "Error!!" });
     }
     setIsModalVisibleEject(false);
   };
