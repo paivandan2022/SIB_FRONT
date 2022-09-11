@@ -558,7 +558,7 @@ const Home = () => {
                 <Col span={24}>
                   <Row>
                     <Col>
-                      <p>News12</p>
+                      <p>News</p>
                     </Col>
                     <Col offset={20}>
                       <Tooltip
