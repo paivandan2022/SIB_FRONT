@@ -28,7 +28,7 @@ const { Option } = Select;
 
 const { Text } = Typography;
 
-const setting_lab_item = () => {
+const Setting_lab_item = () => {
   const [placement, SetPlacement] = React.useState("bottomLeft");
   const [Spinloading, setSpinLoading] = useState(false);
 
@@ -555,21 +555,19 @@ const setting_lab_item = () => {
       }
     });
 
-      const resultapis = await api.get(`/save_mapcode_dataedit`, {
-        params:{
+    const resultapis = await api.get(`/save_mapcode_dataedit`, {
+      params: {
         items_code: frmData.itemcode_select,
-      }
-      });
-    
-    try {
+      },
+    });
 
+    try {
       for (let i = 0; i < result.length; i++) {
         const resultapi = await api.post(`/save_mapcode`, {
           items_code: frmData.itemcode_select,
           map: result,
         });
       }
-
 
       Modal.success({
         title: "Successful confirmation",
@@ -1101,4 +1099,4 @@ const setting_lab_item = () => {
   );
 };
 
-export default setting_lab_item;
+export default Setting_lab_item;
