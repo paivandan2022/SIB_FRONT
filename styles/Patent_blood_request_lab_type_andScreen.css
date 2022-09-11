@@ -1,0 +1,149 @@
+.Patient_Grouping .ant-table-thead > tr > th,
+.ant-table-tbody > tr > td,
+.ant-table tfoot > tr > th,
+.ant-table tfoot > tr > td {
+  border: 1px solid !important;
+}
+.Patient_Grouping .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+.Patient_Grouping .ant-table.ant-table-small .ant-table-tbody > tr > td {
+  padding: 4px 4px;
+  /* font-size: 12px !important; */
+}
+.Patient_Grouping .ant-table.ant-table-small .ant-table-tbody > tr > td {
+  /* border-top: 1px solid; */
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  border-color: #848484;
+  height: 0px !important;
+  border-radius: 0px !important;
+}
+
+/* .Patient_Grouping .ant-table.ant-table-small {
+  border-radius: 0px !important;
+  border-color: #848484;
+  width: 538px;
+  height: 290px;
+  border: 1px solid;
+} */
+.Patient_Grouping .ant-table.ant-table-small .ant-table-thead > tr > th {
+  font-weight: bold;
+  border: 1px solid;
+  border-color: #848484;
+}
+.Patient_Grouping .ant-table.ant-table-small .ant-table-thead > tr > th {
+  padding: 2px 2px;
+  font-size: 12px !important;
+  font-weight: bold !important;
+}
+
+.DAT_Autocontrol .ant-table-thead > tr > th,
+.ant-table-tbody > tr > td,
+.ant-table tfoot > tr > th,
+.ant-table tfoot > tr > td {
+  border: 1px solid;
+}
+.DAT_Autocontrol .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+.DAT_Autocontrol .ant-table.ant-table-small .ant-table-tbody > tr > td {
+  padding: 4px 4px;
+  /* font-size: 12px !important; */
+}
+.DAT_Autocontrol .ant-table.ant-table-small .ant-table-tbody > tr > td {
+  /* border-top: 1px solid; */
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  border-color: #848484;
+  height: 0px !important;
+  border-radius: 0px !important;
+}
+
+.Antigen .ant-table.ant-table-small .ant-table-thead > tr > th {
+  font-weight: bold;
+  border: 1px solid;
+  border-color: #848484;
+}
+.Antigen .ant-table.ant-table-small .ant-table-thead > tr > th {
+  padding: 2px 2px;
+  font-size: 12px !important;
+  font-weight: bold !important;
+}
+
+.Antigen .ant-table-thead > tr > th,
+.ant-table-tbody > tr > td,
+.ant-table tfoot > tr > th,
+.ant-table tfoot > tr > td {
+  border: 1px solid;
+}
+.Antigen .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+.Antigen .ant-table.ant-table-small .ant-table-tbody > tr > td {
+  padding: 2px 2px;
+  /* font-size: 12px !important; */
+}
+.Antigen .ant-table.ant-table-small .ant-table-tbody > tr > td {
+  /* border-top: 1px solid; */
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  border-color: #848484;
+  height: 0px !important;
+  border-radius: 0px !important;
+}
+
+.Antigen .ant-table.ant-table-small .ant-table-thead > tr > th {
+  font-weight: bold;
+  border: 1px solid;
+  border-color: #848484;
+}
+.Antigen .ant-table.ant-table-small .ant-table-thead > tr > th {
+  padding: 2px 2px;
+  font-size: 12px !important;
+  font-weight: bold !important;
+}
+
+.Antibody .ant-table.ant-table-small .ant-table-thead > tr > th {
+  font-weight: bold;
+  border: 1px solid;
+  border-color: #848484;
+}
+.Antibody .ant-table.ant-table-small .ant-table-thead > tr > th {
+  padding: 2px 2px;
+  font-size: 12px !important;
+  font-weight: bold !important;
+}
+
+.Antibody .ant-table-thead > tr > th,
+.ant-table-tbody > tr > td,
+.ant-table tfoot > tr > th,
+.ant-table tfoot > tr > td {
+  border: 1px solid;
+}
+.Antibody .ant-table-tbody > tr:hover > td {
+  background: rgb(255, 255, 255) !important;
+}
+.Antibody .ant-table.ant-table-small .ant-table-tbody > tr > td {
+  padding: 2px 2px;
+  /* font-size: 12px !important; */
+}
+.Antibody .ant-table.ant-table-small .ant-table-tbody > tr > td {
+  /* border-top: 1px solid; */
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  border-color: #848484;
+  height: 0px !important;
+  border-radius: 0px !important;
+}
+
+.Antibody .ant-table.ant-table-small .ant-table-thead > tr > th {
+  font-weight: bold;
+  border: 1px solid;
+  border-color: #848484;
+}
+.Antibody .ant-table.ant-table-small .ant-table-thead > tr > th {
+  padding: 2px 2px;
+  font-size: 12px !important;
+  font-weight: bold !important;
+}

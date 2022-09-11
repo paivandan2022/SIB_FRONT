@@ -1,0 +1,77 @@
+/* 27-06-2565 earn */
+.SelectGr .ant-select-selector {
+    height: 50px !important;
+    text-align: center;
+    line-height: 50px;
+    display: block;
+    font-size: 32px;
+    background-color: #fdfdfd;
+  }
+  .SelectRh .ant-select-selector {
+    height: 50px !important;
+    text-align: center;
+    line-height: 50px;
+    display: block;
+    font-size: 32px;
+  }
+  .OptionGr .ant-select-item-option-content {
+    font-size: 33px;
+    text-align: center;
+  }
+  
+  .OptionRh .ant-select-item-option-content {
+    font-size: 25px;
+    text-align: center;
+  }
+  
+  .TbNote table {
+    height: 4px;
+    padding: -3px;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .TbNote .ant-table-thead > tr > th {
+    background: rgba(204, 167, 123, 0.693) !important;
+  }
+  
+  .TbNote .ant-table.ant-table-small .ant-table-tbody > tr > td {
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-color: rgba(204, 167, 123, 0.693);
+  }
+  .TbNote .ant-table.ant-table-small .ant-table-thead > tr > th {
+    font-weight: bold;
+    border: 1px solid;
+    border-color: rgba(248, 227, 201, 0.693);
+  }
+  
+  .NOHOVERfgt .ant-table-tbody > tr:hover > td {
+    background: rgb(255, 255, 255) !important;
+  }
+  
+  .NOHOVERfgt .ant-table-thead > tr > th {
+    background: rgba(204, 167, 123, 0.693) !important;
+  }
+  
+  .NOHOVERfgt .ant-table.ant-table-small .ant-table-thead > tr > th {
+    font-weight: bold;
+    border: 1px solid;
+    border-color: rgba(248, 227, 201, 0.693);
+  }
+  
+  .HisFgt .ant-table-thead > tr > th {
+    height: 4px;
+    padding: -3px;
+    font-size: 12px;
+    text-align: center;
+    background: rgba(204, 167, 123, 0.693) !important;
+  }
+  
+  .HisFgt .ant-table.ant-table-small .ant-table-thead > tr > th {
+    font-weight: bold;
+    border: 1px solid;
+    border-color: rgba(248, 227, 201, 0.693);
+  }
+  
+  
